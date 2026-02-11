@@ -39,6 +39,7 @@ This project allows users to browse food items, explore categories, and view a c
 ## 📂 Project Structure
 
 food-delivery-website
+
 │── index.html
 │── style.css  
 │── script.js  
