@@ -40,7 +40,7 @@ This project allows users to browse food items, explore categories, and view a c
 
 food-delivery-website
 
-│── index.html
+│── index.html  
 │── style.css  
 │── script.js  
 │── images/  
